@@ -6,4 +6,6 @@ color: #8B4513 ;
 #fejlec
 {
 background-image: url(szines.jpg);
+background-repeat: no-repeat;
+background-size: cover;
 }
