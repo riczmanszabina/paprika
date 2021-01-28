@@ -9,3 +9,7 @@ background-image: url(szines.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
+ul
+{
+    list-style-image: url(chili-pepper-icon.gif);
+}
