@@ -13,3 +13,7 @@ ul
 {
     list-style-image: url(chili-pepper-icon.gif);
 }
+table, td, th, tr
+        {
+            border: 1px solid black        
+        }
